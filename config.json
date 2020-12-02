@@ -1,22 +1,26 @@
-{
-  "tokens": [],
-  "secret_code": "",
-  "delete_all_notify": false,
-  "ru_captcha_key": "",
-  "igrored_members": [],
-  "igrored_global_members": [],
-  "muted_members": [],
-  "aliases": [],
-  "service_prefixes": [
-    "!слп",
-    ".слп"
-  ],
-  "self_prefixes": [
-    "!л",
-    ".л"
-  ],
-  "duty_prefixes": [
-    "!лд",
-    ".лд"
-  ]
+{ 
+"tokens": [ 
+"88116afac7e0bddf9c64b70c94c6b248adc7b356da11afb0f60da4f3c4fb0caddc7b12cefc57742624078", 
+"edf52187385b2a513d2a2b358eb2d6bda2d66ea598cc4e5f5e99c335544c85f6d72d742349119ed8da225", 
+"641cf56db48608d6493a7a142aa255526dbf5fa0bc25cf017e8c59e2a9fc762e0150b7e04ee25c25e5f54" 
+], 
+"secret_code": "wraithness", 
+"delete_all_notify": false, 
+"ru_captcha_key": "", 
+"igrored_members": [], 
+"igrored_global_members": [], 
+"muted_members": [], 
+"aliases": [], 
+"service_prefixes": [ 
+"!слп", 
+".слп" 
+], 
+"self_prefixes": [ 
+"!л", 
+".л" 
+], 
+"duty_prefixes": [ 
+"!лд", 
+".лд" 
+] 
 }
